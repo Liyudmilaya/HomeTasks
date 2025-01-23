@@ -7,7 +7,7 @@ public class Task3 {
         printResSortChoose(new int[]{});
         printResSortChoose(new int[]{13});
         printResSortChoose(new int[]{7, 5});
-        printResSortChoose(new int[]{24, 9, 30, 1});
+//        printResSortChoose(new int[]{24, 9, 30, 1});
         printResSortChoose(new int[]{7, 4, 2, 8, 5, 1, 3});
     }
 
